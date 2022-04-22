@@ -6,6 +6,9 @@
 
 header {
     height: 10vh;
+    padding: 1rem 10rem;
+    text-align: end;
+    vertical-align: middle;
 }
 
 main {
@@ -49,8 +52,8 @@ footer {
 }
 
 .cell.hard {
-    height: calc(100% / 5);
-    width: calc(100% / 5);
+    height: calc(100% / 7);
+    width: calc(100% / 7);
 }
 
 .cell span {
